@@ -20,7 +20,7 @@ list_of_columns =['code', 'state', 'category', 'total exports', 'beef', 'pork', 
 #mycolorbartitle = "Millions USD"
 tabtitle = 'Old McDonald'
 sourceurl = 'https://plot.ly/python/choropleth-maps/'
-githublink = 'https://github.com/austinlasseter/dash-map-usa-agriculture'
+githublink = 'https://github.com/sinusekhar/301-old-mcdonald'
 
 
 ########## Set up the chart
