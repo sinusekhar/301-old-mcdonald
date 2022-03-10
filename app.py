@@ -57,7 +57,7 @@ app.layout = html.Div(children=[
                     options=[{'label': i, 'value': i} for i in list_of_columns],
                     value='corn'
                 ),
-    html.Div([dcc.Graph(id='figure-1')
+    html.Div([dcc.Graph(id='figure-1'),
 #    dcc.Graph(
 #        id='figure-1',
 #        figure=fig
